@@ -14,6 +14,8 @@ Najpierw uruchamiamy Wiersz polecenia albo w terminalu Visual studio Code i utw�
 ```cmd
 docker network create lab10net
 ```
+Wynik:
+
 
 ![Docker network](images/dockernetwork.png)
 
@@ -30,6 +32,7 @@ mkdir -p $env:USERPROFILE\lab10\html\web2
 mkdir -p $env:USERPROFILE\lab10\html\web3
 ```
 Wynik:
+
 ![Tworzenie Plików](images/pliki.png)
 ![Tworzenie katalogó](images/foldery.png)
 
@@ -64,6 +67,7 @@ Odwiedzenie na jednej z podanych stron w celu potwierdzenia działania serwerów
 - http://localhost:8083 dla web3
 
 Wynik:
+
 ![Strona web1](images/stronaweb1.png)
 
 ### 5. Sprawdzenie logów
